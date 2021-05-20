@@ -1,4 +1,4 @@
-# Ejercicios Resueltos - Estrurtura Secuencial
+# Ejercicios Resueltos - Estructura Secuencial
 
 1.- Escribir un programa que lea dos números por teclado y escriba su suma, diferencia, producto y cociente.
 
